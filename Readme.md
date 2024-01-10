@@ -1,0 +1,1 @@
+This repo is genrally belongs to the coding part of the coding journey
